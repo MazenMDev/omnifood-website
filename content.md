@@ -140,4 +140,3 @@ Privacy & terms
 -Pricing + Features
 -CTA  
 -Footer
-
